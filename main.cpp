@@ -1,4 +1,4 @@
-// Author Your Name 
+// Jackie Giang and Carter Alemania
 // Description: Hello World in C++ 
 //============================================================ 
 main 
